@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "OSKA DUE | Your payments, in perspective",
   description: "Your Payments. Your People. One Dashboard.",
-  manifest: "/manifest.webmanifest",
+  manifest: "/KOKO_payment-web/manifest.webmanifest",
 };
 export const viewport: Viewport = {
   themeColor: "#10151d",

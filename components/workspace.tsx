@@ -75,7 +75,7 @@ function download(name: string, text: string, type: string) {
   setTimeout(() => URL.revokeObjectURL(url), 1000);
 }
 export default function Workspace() {
-  const path = usePathname();
+  const path = usePathname().replace(/^\/KOKO_payment-web(?=\/|$)/, "").replace(/\/+$/, "") || "/";
   const person = path.startsWith("/people/") ? path.split("/")[2] : "";
   const [s, setS] = useState<State>(seed);
   const ref = useRef(s);
@@ -127,7 +127,7 @@ export default function Workspace() {
     }
     setReady(true);
     if ("serviceWorker" in navigator)
-      navigator.serviceWorker.register("/sw.js").catch(() => {});
+      navigator.serviceWorker.register("/KOKO_payment-web/sw.js").catch(() => {});
   }, []);
   useEffect(() => {
     const onStorage = (e: StorageEvent) => {

@@ -36,3 +36,6 @@ Purchases can be added or edited with manual person splits. Purchases with settl
 Responsive standalone manifest, SVG icon and service worker registration are included. The worker does not cache finance data or application routes; this build requires network access to the local server and does not claim offline operation. Local mode has no authentication and is intended for a trusted device. Clearing browser storage deletes local records: export JSON backups regularly. No deployment has been performed.
 
 Next.js installation reference: https://nextjs.org/docs/app/getting-started/installation
+
+## GitHub Pages
+This repository exports a static build for /KOKO_payment-web with ten generated application routes. GitHub Actions tests and builds before deploying the out directory. In Settings > Pages select GitHub Actions as the source. Financial records remain in this browser local storage; there is no account authentication or cross-device database sync. The public build includes the seed dataset.

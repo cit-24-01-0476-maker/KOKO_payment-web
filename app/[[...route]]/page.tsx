@@ -24,3 +24,7 @@ export default async function Page({
     notFound();
   return <Workspace />;
 }
+
+export function generateStaticParams() {
+  return [[], ["planner"], ["purchases"], ["history"], ["import"], ["settings"], ["people", "thiranji"], ["people", "oshadha"], ["people", "ayesh"], ["people", "supun"]].map(route => ({ route }));
+}
