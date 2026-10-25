@@ -1,0 +1,503 @@
+{
+  "version": 1,
+  "revision": 0,
+  "plans": [
+    {
+      "id": "PRASAD-704",
+      "merchant": "Prasad Fashion Sq.",
+      "installments": [
+        {
+          "id": "PRASAD-704-4",
+          "date": "2026-11-11",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "PRASAD-704-4-thiranji",
+              "person": "thiranji",
+              "cents": 70490
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-704-5",
+          "date": "2026-12-11",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "PRASAD-704-5-thiranji",
+              "person": "thiranji",
+              "cents": 70490
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-704-6",
+          "date": "2027-01-10",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "PRASAD-704-6-thiranji",
+              "person": "thiranji",
+              "cents": 70490
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "VEHICLE-3233",
+      "merchant": "Vehicle Accessories",
+      "installments": [
+        {
+          "id": "VEHICLE-3233-4",
+          "date": "2026-11-12",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "VEHICLE-3233-4-oshadha",
+              "person": "oshadha",
+              "cents": 323300
+            }
+          ]
+        },
+        {
+          "id": "VEHICLE-3233-5",
+          "date": "2026-12-12",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "VEHICLE-3233-5-oshadha",
+              "person": "oshadha",
+              "cents": 323300
+            }
+          ]
+        },
+        {
+          "id": "VEHICLE-3233-6",
+          "date": "2027-01-11",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "VEHICLE-3233-6-oshadha",
+              "person": "oshadha",
+              "cents": 323300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DIGITAL-318",
+      "merchant": "Digital Cellular",
+      "installments": [
+        {
+          "id": "DIGITAL-318-3",
+          "date": "2026-11-16",
+          "number": 3,
+          "allocations": [
+            {
+              "id": "DIGITAL-318-3-oshadha",
+              "person": "oshadha",
+              "cents": 31800
+            }
+          ]
+        },
+        {
+          "id": "DIGITAL-318-4",
+          "date": "2026-12-16",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "DIGITAL-318-4-oshadha",
+              "person": "oshadha",
+              "cents": 31800
+            }
+          ]
+        },
+        {
+          "id": "DIGITAL-318-5",
+          "date": "2027-01-15",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "DIGITAL-318-5-oshadha",
+              "person": "oshadha",
+              "cents": 31800
+            }
+          ]
+        },
+        {
+          "id": "DIGITAL-318-6",
+          "date": "2027-02-14",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "DIGITAL-318-6-oshadha",
+              "person": "oshadha",
+              "cents": 31800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MUVE-24793",
+      "merchant": "Muvestore.lk",
+      "installments": [
+        {
+          "id": "MUVE-24793-6",
+          "date": "2026-11-18",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "MUVE-24793-6-ayesh",
+              "person": "ayesh",
+              "cents": 2479340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MD-2176-SUPUN",
+      "merchant": "MD Computers.lk",
+      "installments": [
+        {
+          "id": "MD-2176-SUPUN-2",
+          "date": "2026-10-30",
+          "number": 2,
+          "allocations": [
+            {
+              "id": "MD-2176-SUPUN-2-supun",
+              "person": "supun",
+              "cents": 217653
+            }
+          ]
+        },
+        {
+          "id": "MD-2176-SUPUN-3",
+          "date": "2026-11-29",
+          "number": 3,
+          "allocations": [
+            {
+              "id": "MD-2176-SUPUN-3-supun",
+              "person": "supun",
+              "cents": 217653
+            }
+          ]
+        },
+        {
+          "id": "MD-2176-SUPUN-4",
+          "date": "2026-12-29",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "MD-2176-SUPUN-4-supun",
+              "person": "supun",
+              "cents": 217653
+            }
+          ]
+        },
+        {
+          "id": "MD-2176-SUPUN-5",
+          "date": "2027-01-28",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "MD-2176-SUPUN-5-supun",
+              "person": "supun",
+              "cents": 217653
+            }
+          ]
+        },
+        {
+          "id": "MD-2176-SUPUN-6",
+          "date": "2027-02-27",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "MD-2176-SUPUN-6-supun",
+              "person": "supun",
+              "cents": 217653
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MD-3086-OSHADHA",
+      "merchant": "MD Computers.lk",
+      "installments": [
+        {
+          "id": "MD-3086-OSHADHA-2",
+          "date": "2026-10-30",
+          "number": 2,
+          "allocations": [
+            {
+              "id": "MD-3086-OSHADHA-2-oshadha",
+              "person": "oshadha",
+              "cents": 308672
+            }
+          ]
+        },
+        {
+          "id": "MD-3086-OSHADHA-3",
+          "date": "2026-11-29",
+          "number": 3,
+          "allocations": [
+            {
+              "id": "MD-3086-OSHADHA-3-oshadha",
+              "person": "oshadha",
+              "cents": 308672
+            }
+          ]
+        },
+        {
+          "id": "MD-3086-OSHADHA-4",
+          "date": "2026-12-29",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "MD-3086-OSHADHA-4-oshadha",
+              "person": "oshadha",
+              "cents": 308672
+            }
+          ]
+        },
+        {
+          "id": "MD-3086-OSHADHA-5",
+          "date": "2027-01-28",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "MD-3086-OSHADHA-5-oshadha",
+              "person": "oshadha",
+              "cents": 308672
+            }
+          ]
+        },
+        {
+          "id": "MD-3086-OSHADHA-6",
+          "date": "2027-02-27",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "MD-3086-OSHADHA-6-oshadha",
+              "person": "oshadha",
+              "cents": 308672
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MD-1543-SUPUN",
+      "merchant": "MD Computers.lk",
+      "installments": [
+        {
+          "id": "MD-1543-SUPUN-2",
+          "date": "2026-10-30",
+          "number": 2,
+          "allocations": [
+            {
+              "id": "MD-1543-SUPUN-2-supun",
+              "person": "supun",
+              "cents": 154336
+            }
+          ]
+        },
+        {
+          "id": "MD-1543-SUPUN-3",
+          "date": "2026-11-29",
+          "number": 3,
+          "allocations": [
+            {
+              "id": "MD-1543-SUPUN-3-supun",
+              "person": "supun",
+              "cents": 154336
+            }
+          ]
+        },
+        {
+          "id": "MD-1543-SUPUN-4",
+          "date": "2026-12-29",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "MD-1543-SUPUN-4-supun",
+              "person": "supun",
+              "cents": 154336
+            }
+          ]
+        },
+        {
+          "id": "MD-1543-SUPUN-5",
+          "date": "2027-01-28",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "MD-1543-SUPUN-5-supun",
+              "person": "supun",
+              "cents": 154336
+            }
+          ]
+        },
+        {
+          "id": "MD-1543-SUPUN-6",
+          "date": "2027-02-27",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "MD-1543-SUPUN-6-supun",
+              "person": "supun",
+              "cents": 154336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PRASAD-1171",
+      "merchant": "Prasad Fashion Sq.",
+      "installments": [
+        {
+          "id": "PRASAD-1171-2",
+          "date": "2026-10-30",
+          "number": 2,
+          "allocations": [
+            {
+              "id": "PRASAD-1171-2-thiranji",
+              "person": "thiranji",
+              "cents": 117130
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-1171-3",
+          "date": "2026-11-29",
+          "number": 3,
+          "allocations": [
+            {
+              "id": "PRASAD-1171-3-thiranji",
+              "person": "thiranji",
+              "cents": 117130
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-1171-4",
+          "date": "2026-12-29",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "PRASAD-1171-4-thiranji",
+              "person": "thiranji",
+              "cents": 117130
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-1171-5",
+          "date": "2027-01-28",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "PRASAD-1171-5-thiranji",
+              "person": "thiranji",
+              "cents": 117130
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-1171-6",
+          "date": "2027-02-27",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "PRASAD-1171-6-thiranji",
+              "person": "thiranji",
+              "cents": 117130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PRASAD-1227-SHARED",
+      "merchant": "Prasad Fashion Sq.",
+      "installments": [
+        {
+          "id": "PRASAD-1227-SHARED-3",
+          "date": "2026-10-31",
+          "number": 3,
+          "allocations": [
+            {
+              "id": "PRASAD-1227-SHARED-3-thiranji",
+              "person": "thiranji",
+              "cents": 86500
+            },
+            {
+              "id": "PRASAD-1227-SHARED-3-oshadha",
+              "person": "oshadha",
+              "cents": 36283
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-1227-SHARED-4",
+          "date": "2026-11-30",
+          "number": 4,
+          "allocations": [
+            {
+              "id": "PRASAD-1227-SHARED-4-thiranji",
+              "person": "thiranji",
+              "cents": 86500
+            },
+            {
+              "id": "PRASAD-1227-SHARED-4-oshadha",
+              "person": "oshadha",
+              "cents": 36283
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-1227-SHARED-5",
+          "date": "2026-12-30",
+          "number": 5,
+          "allocations": [
+            {
+              "id": "PRASAD-1227-SHARED-5-thiranji",
+              "person": "thiranji",
+              "cents": 86500
+            },
+            {
+              "id": "PRASAD-1227-SHARED-5-oshadha",
+              "person": "oshadha",
+              "cents": 36283
+            }
+          ]
+        },
+        {
+          "id": "PRASAD-1227-SHARED-6",
+          "date": "2027-01-29",
+          "number": 6,
+          "allocations": [
+            {
+              "id": "PRASAD-1227-SHARED-6-thiranji",
+              "person": "thiranji",
+              "cents": 86500
+            },
+            {
+              "id": "PRASAD-1227-SHARED-6-oshadha",
+              "person": "oshadha",
+              "cents": 36283
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "transactions": [],
+  "koko": {},
+  "imports": []
+}
